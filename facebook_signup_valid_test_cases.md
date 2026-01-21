@@ -44,4 +44,5 @@ Password Rules: Enter a combination that is at least six numbers, letters and pu
 
 **Evidence:**
 
-![Sign up page](../05_evidence/screenshots/signup_pass.png)
+![Sign up success](../05_evidence/screenshots/signup_pass.png)
+

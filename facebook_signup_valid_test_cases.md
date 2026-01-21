@@ -41,3 +41,7 @@ Password Rules: Enter a combination that is at least six numbers, letters and pu
 - User is redirected to confirmation or home page
 
 **Status:** Pass
+
+**Evidence:**
+
+![Sign up page](../05_evidence/screenshots/signup_pass.png)

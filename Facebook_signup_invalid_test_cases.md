@@ -57,4 +57,4 @@ These test cases verify system behavior with incorrect or missing input.
 
 ![Invalid email error](05_evidence/screenshots/invalid_email_error.png)
 
-![Invalid email error](05_evidence/screenshots/invalid_email_error.png)
+![Invalid first name error](05_evidence/screenshots/invalid_first_name_error.png)

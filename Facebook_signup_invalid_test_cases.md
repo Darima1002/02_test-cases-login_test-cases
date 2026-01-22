@@ -3,7 +3,7 @@
 ## Invalid Scenarios (Negative Testing)
 These test cases verify system behavior with incorrect or missing input.
 
-## Invalid test scenatios
+## Invalid test scenatios - examples
 - Validate leaving the first name field empty
 - Validate leaving surname empty
 - Validate leaving email or phone number field empty
@@ -52,3 +52,9 @@ These test cases verify system behavior with incorrect or missing input.
 - Account is not created
 
 **Status:** Pass
+
+**Evidence:**
+
+![Invalid email error](05_evidence/screenshots/invalid_email_error.png)
+
+![Invalid email error](05_evidence/screenshots/invalid_email_error.png)

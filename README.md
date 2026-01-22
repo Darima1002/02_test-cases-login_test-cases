@@ -24,10 +24,5 @@ It includes valid and invalid test scenarios with supporting execution evidence.
 - Invalid input validation
 - Error message verification
 
-## Repository Structure
-facebook_signup_valid_test_cases.md -> Valid sign-up scenarios
-Facebook_signup_invalid_test_cases.md ->Invalid sign-up scenarios
-05_evidence/screenshots/ -> Test execution evidence
-
 ## Notes
 This project is created for learning and QA portfolio purposes.

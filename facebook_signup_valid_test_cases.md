@@ -14,12 +14,11 @@ Password Rules: Enter a combination that is at least six numbers, letters and pu
 - include letters
 - include special characher
 
-### Valid Scenarios
+### Valid Scenarios - examples
 - Validate sign up with valid phone number
 - Validate sign up with valid email address
 - Validate Sign up with Russian First and Last Name
-- Validate providing a short valid First Name: "Mo or Yu"
-- Validate providing phone number with  and without country code
+- Validate providing phone number with and without country code
 - Validate sign up with the valid age in the range 13 to 18 years old
 - Validate sign up with valid age in the range 18 to 120 years old
 - Validate providing gender: female, male, non binary 

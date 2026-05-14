@@ -25,4 +25,4 @@ It includes valid and invalid test scenarios with supporting execution evidence.
 - Error message verification
 
 ## Notes
-This project is created for learning and QA portfolio purposes.
+This project is created for learning purposes and a part of CS class
